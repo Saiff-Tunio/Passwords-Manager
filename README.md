@@ -13,7 +13,7 @@ A desktop application built with Python's Tkinter for GUI and MySQL for secure s
 * **Programming Language:** Python
 * **GUI Library:** Tkinter
 * **Database:** MySQL
-* **Libraries:** `mysql-connector-python , tkinter`([github.com][1])
+* **Libraries:** `mysql-connector-python , tkinter`
 
 ## 📁 Project Structure
 
